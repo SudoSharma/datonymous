@@ -1,6 +1,5 @@
 # Datonymous AnonNet
 #### De-identifing patient faces for facilitating protected health information (PHI) exchange among relevant stakeholders.
-[Realtime De-Identification](https://youtu.be/rXMzH9ub_Kk)
 
 ## Team Members
 - Abhi Sharma
