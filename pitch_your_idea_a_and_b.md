@@ -1,4 +1,6 @@
 ## Pitch your idea
+### Section A
+![image](https://github.com/SudoSharma/datonymous/blob/master/Screenshot%202019-03-31%20at%206.49.07%20PM.png)
 Tagline: A user-friendly way to de-identify patient features (like faces, birthmarks, tattoos, audio) from media like images, voice, and video for facilitating protected health information (PHI) exchange among relevant stakeholders. 
 
 Our minimal viable product is for deidentification of images in real-time video conversations. e.g., telemedicine platform.
@@ -6,6 +8,7 @@ Our minimal viable product is for deidentification of images in real-time video 
 ## Paragraph:
 In healthcare, privacy and anonymization are major concerns to all stakeholders dealing with protected health information. Each HIPAA violation costs up to $50,000 per incident. Presently, physicians only document their findings and observations in plain text. As we move towards more sophisticated technology and remote access to healthcare to compensation for low doctor-patient ratio and physician burnouts, there will be increased utilization of video and images as a medium for documenting health information. For seamless exchange of image/video data, there is a need for high-quality de-identification algorithms. This where we add value.
 
+### Section B
 Our real-time video deidentification algorithm (MVP) first identifies the key features that a human uses to recognize faces- eyes, eyebrows, and mouth.  Using this information, accurate pixelation and/or a censor bar placement we de-identify the media file. This has several benefits, including but not limited to:
 
 - Reducing the risk of protected patient information from being leaked
