@@ -1,11 +1,14 @@
 # Datonymous AnonNet
 #### De-identifing patient faces for facilitating protected health information (PHI) exchange among relevant stakeholders.
+[Realtime De-Identification](https://youtu.be/rXMzH9ub_Kk)
 
 ## Team Members
 - Abhi Sharma
 - Jasim Alazzawi
 - Josh Matz
 - Prathamesh Prabhudesai
+
+![](https://github.com/SudoSharma/datonymous/blob/master/ezgif.com-optimize.gif)
 
 ## Abstract
 This repository contains an implementation of AnonNet, our submission to the School of AI Hackathon on March 31st, 2019. AnonNet detects key identifying features on a person's face, i.e., the eyes, eyebrows, and mouth. Using this information, accurate pixelation and/or censor bar placement can de-identify an individual. This has several benefits, including but not limited to:
