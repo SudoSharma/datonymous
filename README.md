@@ -1,5 +1,5 @@
 # Datonymous AnonNet
-### De-identifing patient faces for facilitating protected health information (PHI) exchange among relevant stakeholders.
+#### De-identifing patient faces for facilitating protected health information (PHI) exchange among relevant stakeholders.
 
 ## Team Members
 - Abhi Sharma
@@ -21,3 +21,5 @@ In order to run the `realtime_anon.py` script, you will need to install `dlib`, 
 ## Datasets
 While further instructions are included in the AnonNet Jupyter Notebook, for your reference, we developed AnonNet with the help of the "Helen" open source dataset available [at this location](http://www.ifp.illinois.edu/~vuongle2/helen/). In this dataset, you'll find 2330 high resolution images of faces with annotated key features, including eyes, eyebrows, nose, mouth, and jawline, of which, we only utilized the eyes, eyebrows, and mouth, since these are most important for patient identification. 
 
+## Acknowledgements
+Thank you to the [School of AI](https://www.theschool.ai/) and [Accenture](https://www.accenture.com/us-en) for hosting this hackathon!
