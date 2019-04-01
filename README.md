@@ -14,6 +14,6 @@ This repository contains an implementation of AnonNet, our submission to the Sch
 - Increasing the availability and access to anonymized information, leading to innovation in the Healthcare space
 
 ## Instructions to Reproduce
-In order to replicate the AnonNet Jupyter Notebook, you'll need to install `fastai` and `PyTorch`. The best resource for this is [the following website](https://docs.fast.ai/). 
+In order to replicate the AnonNet Jupyter Notebook, you'll need to install `fastai` and `PyTorch`. The best resource for this is [the following website](https://docs.fast.ai/). The actual Jupyter Notebook contains any other information you might need to fully replicate our approach to facial keypoint detection. Note that this is a transfer learning approach which utilizes a pretrained ResNet34 model as the backbone to a custom Anon head. 
 
-In order to run the `realtime_anon.py` script, you will need to install `dlib`, `cv2`, `imutils`, `sklearn`, and `numpy`. All of these except `cv2` are relatively easy to install. Please create a conda or virtualenv environment and install all dependencies using either conda or pip. You will need to install `cv2` using `$ pip install opencv-python`. 
+In order to run the `realtime_anon.py` script, you will need to install `dlib`, `cv2`, `imutils`, `sklearn`, and `numpy`. All of these except `cv2` are relatively easy to install. Please create a conda or virtualenv environment and install all dependencies using either conda or pip. You will need to install `cv2` using `$ pip install opencv-python`. Once this is done, simply clone this repository, and execute `python realtime_anon.py` to de-identify your face in real-time. 
