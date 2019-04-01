@@ -1,7 +1,7 @@
 ## Pitch your idea
 ### Section A
 ![image](https://github.com/SudoSharma/datonymous/blob/master/Screenshot%202019-03-31%20at%206.49.07%20PM.png)
-Tagline: A user-friendly way to de-identify patient features (like faces, birthmarks, tattoos, audio) from media like images, voice, and video for facilitating protected health information (PHI) exchange among relevant stakeholders. 
+</br>Tagline: A user-friendly way to de-identify patient features (like faces, birthmarks, tattoos, audio) from media like images, voice, and video for facilitating protected health information (PHI) exchange among relevant stakeholders. 
 
 Our minimal viable product is for deidentification of images in real-time video conversations. e.g., telemedicine platform.
 
