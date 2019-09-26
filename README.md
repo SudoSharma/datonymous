@@ -1,3 +1,5 @@
+**UPDATE: We won 2nd place at this Hackathon!**
+
 # Datonymous AnonNet
 #### De-identifing patient faces for facilitating protected health information (PHI) exchange among relevant stakeholders.
 
